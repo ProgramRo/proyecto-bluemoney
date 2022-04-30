@@ -12,4 +12,4 @@
 4. Enviar por consola el contenido del archivo luego de que haya sido creado.    
 5. Ejecutar la aplicación desde un archivo externo con el módulo child_process enviando los argumentos correspondientes y devolviendo por consola el contenido del archivo luego de que haya sido creado.    
 
-**NOTA:** Para visualizar la información en consola Node.js, se debe ejecutar el siguiente comando <node ejecutador-programa.js>
+**NOTA:** Para visualizar la información en consola Node.js, se debe ejecutar el siguiente comando `node ejecutador-programa.js`.
