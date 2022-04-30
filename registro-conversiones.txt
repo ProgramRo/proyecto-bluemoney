@@ -1,0 +1,15 @@
+
+ A la fecha: 2022-04-30T04:00:00.000Z 
+ Fue realizada la cotización con los siguientes datos: 
+ Cantidad de pesos a convertir: 77 
+ Convertido a Unidad de fomento (UF), dando un total de: 2477589.73 
+
+ A la fecha: 2022-04-29T04:00:00.000Z 
+ Fue realizada la cotización con los siguientes datos: 
+ Cantidad de pesos a convertir: 1470 
+ Convertido a Dólar observado, dando un total de: 1259172.6 
+
+ A la fecha: 2022-04-27T04:00:00.000Z 
+ Fue realizada la cotización con los siguientes datos: 
+ Cantidad de pesos a convertir: 2500 
+ Convertido a Bitcoin, dando un total de: 98123200 
